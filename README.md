@@ -32,24 +32,16 @@
   var firstResult = someFunction(9);
   var result = firstResult(2);
   ```
-3. What will the following code output and why?
+
+3. Write a function capitalize that takes a string and uses .map to return the same string in all caps. 
+
+ex. ```capitalize('whoop') // => 'WHOOP'```
+ex. ```capitalize('boy howdy!') // => "BOY HOWDY!"```
 
 ```
-        // calling x after definition 
-        var x = 5; 
-        document.write(x, "\n"); 
-  
-        // calling y after definition  
-        let y = 10; 
-        document.write(y, "\n"); 
-  
-        // calling var z before definition will return undefined 
-        document.write(z, "\n"); 
-        var z = 2; 
-  
-        // calling let a before definition will give error 
-        document.write(a); 
-        let a = 3;
+var capitalize = function(string){
+  // code code code!
+}
 ```
 
 4. Create a new empty array called ```pet_list```. Add 3 ```pet``` objects to the ```pet_list``` array (each ```pet``` should have a ```type``` and a ```breed property```) You can choose the pets.
