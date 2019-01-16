@@ -52,7 +52,7 @@
         let a = 3;
 ```
 
-4. Create a new empty array called ```pett_list```. Add 3 ```pet``` objects to the ```pet_list``` array (each ```pet``` should have a ```type``` and a ```breed property```) You can choose the pets.
+4. Create a new empty array called ```pet_list```. Add 3 ```pet``` objects to the ```pet_list``` array (each ```pet``` should have a ```type``` and a ```breed property```) You can choose the pets.
 
 * Add a new property called ```age``` to each pet instance in ```pet_list'''
 
